@@ -7,7 +7,7 @@
 - Used 20,000 grayscale images to train the models.
 - 5 categories of facial expressions: Happy, Sad, Angry, Surprise, and Neutral.
 
-# Our accuracies:
+# My accuracy:
 - Emotion_Detection_(CNN).ipynb: 57%.
 - Emotion_Detection_(K_nearestneighbour).ipynb: 48%.
 - Emotion_Detection_(logistic_regression).ipynb: 52%.
